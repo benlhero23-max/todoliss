@@ -1,0 +1,6 @@
+{
+  "name": "ปฏิทินห้องปฏิบัติการทางการแพทย์",
+  "description": "ปฏิทินภาษาไทย พ.ศ. แสดงวันสำคัญของไทย บันทึกกิจกรรมตารางงานแล็บ แท็กสีผู้รับผิดชอบ ระบบแจ้งเตือน LINE ล่วงหน้า และซิงค์ Google Calendar",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
